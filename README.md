@@ -13,8 +13,8 @@
 <div align="center"> 
 <a href="https://instagram.com/pharaujo76" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:pedrohenriquelimadf2508@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-lima18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<a href="https://www.linkedin.com/in/pedro-henrique-lima18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://pharaujo76.github.io/meuportfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" style="border-radius: 30px" target="_blank"></a>
 
 ### 🚀 Habilidades em Destaque:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
