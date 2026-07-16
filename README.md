@@ -13,7 +13,7 @@
 <a href="https://instagram.com/pharaujo76" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:pedrohenriquelimadf2508@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-henrique-lima18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="https://ph-portfolio-gules.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" style="border-radius: 30px" target="_blank"></a>
+<a href="https://ph-portfolio-gules.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
 ### 🚀 Habilidades em Destaque:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
